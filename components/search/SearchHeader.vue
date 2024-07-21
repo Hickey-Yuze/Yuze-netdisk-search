@@ -16,7 +16,7 @@ const search = () => {
   emit('search',searchKeyword.value)
 }
 const goGithub = () => {
-  window.open('https://github.com/Hickey-Yuze/aipan-netdisk-search.git')
+  window.open('https://github.com/Hickey-Yuze/Yuze-netdisk-search.git')
 }
 const colorMode = useColorMode()
 
