@@ -25,17 +25,17 @@ Yuze-网盘资源搜索：是一个免费开源项目!
 ##### 编译
 
 ```bash
-docker build -t unilei/aipan-netdisk-search:latest .
+docker build -t Hickey-Yuze/Yuze-netdisk-search:latest .
 ```
 ##### 运行
 
 ```bash
-docker run -p 3000:3000 unilei/aipan-netdisk-search:latest
+docker run -p 3000:3000 Hickey-Yuze/Yuze-netdisk-search:latest
 ```
 ##### 停止
 
 ```bash
-docker stop unilei/aipan-netdisk-search:latest
+docker stop Hickey-Yuze/Yuze-netdisk-search:latest
 ```
 
 #### Docker-compose
@@ -60,7 +60,7 @@ docker compose down
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/unilei/aipan-netdisk-search.git
+git clone https://github.com/Hickey-Yuze/Yuze-netdisk-search.git
 ```
 
 ### 2. 安装依赖
