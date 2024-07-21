@@ -1,6 +1,5 @@
-# 爱盼-网盘资源搜索Web
-爱盼-网盘资源搜索：是一个免费开源项目!
-👉 [爱盼-网盘资源搜索](https://so.aicompasspro.com)
+# Yuze-网盘资源搜索Web
+Yuze-网盘资源搜索：是一个免费开源项目!
 
 ### 建议
 项目使用的是第三方的API，对ip有访问限制，建议自己部署使用。
@@ -88,15 +87,7 @@ pnpm run dev
 yarn dev
 ```
 
-### 4. 在浏览器打开 [http://localhost:3001](http://localhost:3001)
-![success_deploy.jpg](/assets/readme/screen-1.png)
-![success_deploy.jpg](/assets/readme/screen-2.png)
-
-#### 如何部署到自己服务器？ NUXT.JS 打包部署文档
+#### 4.如何部署到自己服务器？ NUXT.JS 打包部署文档
 [部署文档](https://nuxt.com/docs/getting-started/deployment)
 
-### 打赏
-<img src="/assets/donation/wechat_pay.jpg" width=200  />
 
-### 交流
-<img src="/assets/readme/wechat.jpg" width=200  />
